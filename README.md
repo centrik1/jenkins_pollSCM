@@ -1,3 +1,3 @@
 # jenkins_pollSCM
 
-> Adding dummy commit
+> Adding dummy commit 1
