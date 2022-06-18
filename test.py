@@ -7,7 +7,7 @@ from telegram.chataction import ChatAction
 from time import sleep
 from urllib import parse
 import re
-import os
+#import os
 
 updater = Updater("920296790:AAF0BZei36n2WNrIhMyWaF_hiDbjjhBCS8w",
                   use_context=True)
